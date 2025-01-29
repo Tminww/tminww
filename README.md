@@ -4,11 +4,10 @@ Hi 👋 My name is Serafim Oleynik
 Web developer
 -------------
 
-backend and fronte
+backend and frontend developer
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [space](http://tminww.space)
-* ✉️  You can contact me at [serafim.oleynik.](mailto:serafim.oleynik.)
+* ✉️  You can contact me at [tminww@yandex.ru](mailto:tminww@yandex.ru)
 * 🚀  I'm currently working on [kapibara](http://kapi.tminww.space)
 * 🧠  I'm learning fastapi
 
