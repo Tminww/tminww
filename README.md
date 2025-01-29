@@ -46,6 +46,3 @@
 
 ### Статистика GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tminww&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=tminww&color=orange)
-
