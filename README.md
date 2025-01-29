@@ -2,8 +2,7 @@
 ============================
 
 ### Full Stack разработчик
-
-- 🚀 Сейчас работаю над [Kapibara](http://kapi.tminww.space)
+- 🚀 Сейчас работаю над [Kapibara](http://kapi.tminww.space) 
 - 🐍 Углубляюсь в FastAPI и экосистему Python
 - 🛠️ Технологический стек: Vue.js, TypeScript, FastAPI, PostgreSQL, Docker
 - 📍 Нахожусь в России (UTC+3)
@@ -47,3 +46,6 @@
 
 ### Статистика GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tminww&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=tminww&color=orange)
+
