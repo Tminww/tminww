@@ -40,11 +40,8 @@ Hi 👋 I'm Serafim Oleynik
 ### Connect with Me
 
 <p align="left">
-  <a href="https://t.me/your_telegram_group" target="_blank" rel="noreferrer">
+  <a href="https://t.me/tminww_channel" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group">
-  </a>
-  <a href="https://codepen.io/tminww" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
   </a>
 </p>
 
