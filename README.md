@@ -1,23 +1,23 @@
-Hi 👋 I'm Serafim Oleynik
-=========================
+Привет 👋 Я Серафим Олейник
+============================
 
-### Full Stack Developer | Open Source Enthusiast
+### Full Stack разработчик | Энтузиаст Open Source
 
-- 🚀 Currently building [Kapibara](http://kapi.tminww.space) - modern web platform
-- 🐍 Deep diving into FastAPI and Python ecosystem
-- 🛠️ Tech stack: Vue.js, TypeScript, FastAPI, PostgreSQL, Docker
-- 📍 Based in Russia (UTC+3)
-- 📫 Reach me: [tminww@yandex.ru](mailto:tminww@yandex.ru)
+- 🚀 Сейчас работаю над [Kapibara](http://kapi.tminww.space) - современной веб-платформой
+- 🐍 Углубляюсь в FastAPI и экосистему Python
+- 🛠️ Технологический стек: Vue.js, TypeScript, FastAPI, PostgreSQL, Docker
+- 📍 Нахожусь в России (UTC+3)
+- 📫 Свяжитесь со мной: [tminww@yandex.ru](mailto:tminww@yandex.ru)
 
-### Core Skills
+### Основные навыки
 
 <p align="left">
   <!-- Frontend -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
   
   <!-- Backend -->
@@ -25,7 +25,7 @@ Hi 👋 I'm Serafim Oleynik
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
 
   <!-- Tools -->
@@ -37,7 +37,7 @@ Hi 👋 I'm Serafim Oleynik
   </a>
 </p>
 
-### Connect with Me
+### Контакты
 
 <p align="left">
   <a href="https://t.me/tminww_channel" target="_blank" rel="noreferrer">
@@ -45,5 +45,5 @@ Hi 👋 I'm Serafim Oleynik
   </a>
 </p>
 
-### GitHub Stats
+### Статистика GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tminww&layout=compact)
