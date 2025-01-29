@@ -46,7 +46,4 @@ Hi 👋 I'm Serafim Oleynik
 </p>
 
 ### GitHub Stats
-
-<a href="https://github.com/tminww">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tminww&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tminww&layout=compact)
